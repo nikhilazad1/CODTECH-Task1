@@ -1,6 +1,6 @@
 # CODTECH-Task1
 
-TO-DOIT
+TO-DO-LIST
 Name: Nikhil Azad
 Company: CODETECH IT SOLUTIONS
 ID: CT2WD2746
@@ -8,7 +8,7 @@ Domain: Web Development
 Duration: 29 June - 12 July 2024
 Mentor: Neela Santhosh Kumar
 Project Overview
-Project Title: TO-DOIT
+Project Title: TO-DO-LIST
 
 # Overvie of the Project
     
@@ -18,7 +18,7 @@ The objective of this project is to develop a user-friendly and visually appeali
 
 Project Details:
 
-TO-DOIT is a web-based to-do list application that allows users to manage their tasks in a structured and organized manner. Users can add tasks with due dates, mark them as completed or pending, and filter tasks based on their status. The application also provides an option to delete all tasks at once. Additionally, users can switch between multiple themes to customize the appearance of the application according to their preferences.
+TO-DO-LIST is a web-based to-do list application that allows users to manage their tasks in a structured and organized manner. Users can add tasks with due dates, mark them as completed or pending, and filter tasks based on their status. The application also provides an option to delete all tasks at once. Additionally, users can switch between multiple themes to customize the appearance of the application according to their preferences.
 
 Key Features:
 
