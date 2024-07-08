@@ -10,6 +10,8 @@ Duration: 29 June - 12 July 2024 <br>
 Mentor: Neela Santhosh Kumar <br>
 
 # Overvie of the Project
+![OUTPUT SS](https://github.com/nikhilazad1/CODTECH-Task1/assets/158045459/72fdbff6-1374-4e6d-a35f-0492a2eee24c)
+
     
 Objective:
 
