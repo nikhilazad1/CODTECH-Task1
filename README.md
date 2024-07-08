@@ -1,6 +1,6 @@
 # CODTECH-Task1
 
-TO-DO-LIST
+TO-DO-LIST-
 Name: Nikhil Azad
 Company: CODETECH IT SOLUTIONS
 ID: CT2WD2746
@@ -14,6 +14,10 @@ Project Title: TO-DO-LIST
 Objective:
 
 The objective of this project is to develop a user-friendly and visually appealing to-do list web application. The application aims to help users manage their daily tasks efficiently by providing functionalities to add, view, edit, delete, and filter tasks. The project utilizes JavaScript for functionality and Tailwind CSS, DaisyUI for styling, ensuring a responsive and modern user interface.
+
+Project Details:
+
+TO-DO-LIST is a web-based to-do list application that allows users to manage their tasks in a structured and organized manner. Users can add tasks with due dates, mark them as completed or pending, and filter tasks based on their status. The application also provides an option to delete all tasks at once. Additionally, users can switch between multiple themes to customize the appearance of the application according to their preferences.
 
 Key Features:
 
