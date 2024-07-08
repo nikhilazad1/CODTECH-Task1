@@ -7,7 +7,6 @@ ID: CT2WD2746
 Domain: Web Development
 Duration: 29 June - 12 July 2024
 Mentor: Neela Santhosh Kumar
-Project Overview
 Project Title: TO-DO-LIST
 
 # Overvie of the Project
