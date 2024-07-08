@@ -33,3 +33,17 @@ Delete Tasks: Users can delete individual tasks or delete all tasks at once.
 Filter Tasks: Tasks can be filtered based on their status (All, Pending, Completed).
 Theme Switcher: Users can switch between different themes to change the look and feel of the application.
 
+Technologies Used:
+
+JavaScript: For handling the functionality of adding, editing, deleting, and filtering tasks.
+Tailwind CSS & DaisyUI: For styling the application and ensuring a responsive design.
+HTML: For structuring the content of the web pages.
+
+Formalities:
+
+Repository Structure: Ensure the project files are organized in a structured manner with separate folders for CSS, JavaScript, and other resources.
+Documentation: Include proper documentation and comments in the code to make it understandable and maintainable.
+Code Quality: Follow best practices for coding, including proper indentation, naming conventions, and code optimization.
+
+Made with ❤️ by Nikhil Azad
+
