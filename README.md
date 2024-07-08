@@ -1,12 +1,19 @@
 # CODTECH-Task1
 
 TO-DO-LIST-
+
 Name: Nikhil Azad
+
 Company: CODETECH IT SOLUTIONS
+
 ID: CT2WD2746
+
 Domain: Web Development
+
 Duration: 29 June - 12 July 2024
+
 Mentor: Neela Santhosh Kumar
+
 Project Title: TO-DO-LIST
 
 # Overvie of the Project
